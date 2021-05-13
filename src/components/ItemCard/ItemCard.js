@@ -38,6 +38,8 @@ function ItemCard({
   }
 
   return (
+    // Personal solution (no styling) --------------------------
+    
     // <article className="ItemCard col col-12 col-md-6 col-lg-4">
     //   <img src={img} alt="" />
     //   <FavoriteIconButton
